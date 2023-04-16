@@ -7,7 +7,6 @@ In this challenge, I am refactoring existing code to be more accessible. I have 
 ## Screenshot of Site 
 
 Below is a screenshot of the web application.
-**Insert screenshot upon completion**
 
 ## Link to Site
 
