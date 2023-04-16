@@ -8,6 +8,7 @@ In this challenge, I am refactoring existing code to be more accessible. I have 
 
 Below is a screenshot of the web application.
 **Insert screenshot upon completion**
+![Screenshot module1](https://user-images.githubusercontent.com/129894673/232340981-ecf11564-1611-415f-a31a-021fe068f65e.png)
 
 ## Link to Site
 
