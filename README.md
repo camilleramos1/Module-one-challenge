@@ -4,7 +4,7 @@
 
 In this challenge, I am refactoring existing code to be more accessible. I have updated the code to include alt tags describing images and graphics located on the site. I have also updated text in the HTML file to have a better semantic structure.
 
-### Screenshot of Site 
+## Screenshot of Site 
 
 Below is a screenshot of the web application.
 **Insert screenshot upon completion**
@@ -31,15 +31,3 @@ You can also refer to this [YouTube video on enabling GitHub Pages](https://yout
 > **Important**: It might take a few minutes for GitHub pages to display your site correctly. If your project does not deploy or display correctly, check that all file paths in your application are relative and use the right casing. GitHub is case-sensitive, an inccorect capital or lowercase letter could cause problems in deployment.
 
 Be sure to add, commit, and push your work to see the most up-to-date version of your app!
-
-## Grading Requirements
-
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
