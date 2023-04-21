@@ -1,4 +1,4 @@
-# Module 1 Challenge: Code Refactor
+# Horiseon Accessibility and Semantics
 
 ## Description
 
